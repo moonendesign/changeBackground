@@ -21,17 +21,20 @@ button {
     width:60px;
     opacity: 0.8;
     transition: opacity 0.5s ease-in-out;
+    display:block;
+    margin: 10px auto 0px auto;
 }
 
 button:hover {
-    
     opacity: 1;
 }
+
 #menu {
-    border: solid 1px black;
+    border: solid 2px black;
     text-align: center;
     width:20%;
     padding:15px;
     margin: 50px auto;
     background-color: white;
+    border-radius: 4px;
 }
