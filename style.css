@@ -36,8 +36,10 @@ button:hover {
     margin: 50px auto;
     background-color: white;
     border-radius: 4px;
+    box-shadow: 5px 5px 15px rgb(48, 47, 47);
 }
 
 span {
     font-family: 'Inconsolata', monospace;
+    color: black;
 }
